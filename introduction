@@ -1,0 +1,5 @@
+In a city of Stockholm, if someone is looking to open a restaurant, where would you recommend that they open it.
+I have the capital to open a pizza restaurant, where is the best place to open it in the city of stockholm.
+
+To solve this problem, I will combine all  foursquare data to cluster similar restaurants together.
+Once I have similar regions identified, i willfind the region with the lowest amount of pizza places , which will be my suggested place
